@@ -1,18 +1,9 @@
 #**CheckPoint de CyberSegurança**
-##**Missão**: Construir uma aplicação que funcione como se fosse um cadastro de uma pessoa em um app de banco, ou seja construir uma forma da IA entender o que tem na self tirada pelo usuario.
+#**Missão**: Construir uma aplicação que funcione como se fosse um cadastro de uma pessoa em um app de banco, ou seja construir uma forma da IA entender o que tem na self tirada pelo usuario.
 ---
-###**Objetivos** para aprovação do cadastro:
+**Objetivos** para aprovação do cadastro:
 *   Realizar o Captcha
 *   Ter duas pessoas na self ou Self segurando uma (maçã,caneta ou um relogio) 
----
-####**Resumo da Finalização:** Após construir a aplicação, percebi alguns erros ao subir a imagem no Streamlit, eu consigo subir arquivos que sejam menores que (7Kb), percebi que esse erro erá do proprio Ngrok ou Streamlit, que dizia aceitar arquivos de até 200mb, entretanto só estava conseguindo receber menores. Mas ao identificar esse erro, eu fiz um tratamento nas imagens de teste as deixando com menos de (7Kb), para poder testar a acuracia do programa, decidi utilizar o Detectron2, ou sejá uma IA já treinada, consegui com exito otimos resultados.
-
-**Erro encontrado**: ( Error: Request failed with status code 500 
-)
-
-**Soluação**: Realizar o Deploy em plataformas como o Heroku
-
-
 ---
 ##Caixas de resposta:
 
