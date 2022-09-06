@@ -1,11 +1,13 @@
-#**CheckPoint de CyberSegurança**
-#**Missão**: Construir uma aplicação que funcione como se fosse um cadastro de uma pessoa em um app de banco, ou seja construir uma forma da IA entender o que tem na self tirada pelo usuario.
+**CheckPoint de CyberSegurança**
+
+**Missão**: Construir uma aplicação que funcione como se fosse um cadastro de uma pessoa em um app de banco, ou seja construir uma forma da IA entender o que tem na self tirada pelo usuario.
+
 ---
 **Objetivos** para aprovação do cadastro:
 *   Realizar o Captcha
 *   Ter duas pessoas na self ou Self segurando uma (maçã,caneta ou um relogio) 
 ---
-##Caixas de resposta:
+Caixas de resposta:
 
 Primeira caixa, ela aparece enquanto o usuario não digitar o Captcha, ou digitar errado:
 
